@@ -1,0 +1,7 @@
+add_25 = lambda x: x + 25
+
+number = 10
+result = add_25(number)
+print(result) 
+
+# Output will be 35
